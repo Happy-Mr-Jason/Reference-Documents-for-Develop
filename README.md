@@ -2,8 +2,8 @@
 I think this is a very useful document for beginners. It shows a lot of references to the question.
 
 ### ◇ Git README.md 편집하는 방법
-    https://github.com/sejong-interface/Interface_Manual/wiki/Git-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%233-README.md-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0!
-
+   https://github.com/sejong-interface/Interface_Manual.wiki.git
+    
 ### ◇ 키보드 자동 내리기 소스
   InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
   imm.hideSoftInputFromWindow(v.getWindoToken(),0);
