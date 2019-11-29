@@ -2,8 +2,8 @@
 I think this is a very useful document for beginners. It shows a lot of references to the question.
 
 ◇ 키보드 자동 내리기 소스
-InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
-imm.hideSoftInputFromWindow(v.getWindoToken(),0);
+  InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
+  imm.hideSoftInputFromWindow(v.getWindoToken(),0);
 
 ◇ Animation Gif 파일을 Animation 구현 없이 바로 보여주는 라이브러리
   1. com.github.bumptech.glide:glide:3.7.0
