@@ -54,7 +54,9 @@ I think this is a very useful document for beginners. It shows a lot of referenc
      https://developer.android.com/jetpack/androidx/releases/drawerlayout
   3. DrawerLayout내에 com.google.android.material.navigation.NavigationView 을 포함시킨다.
      https://developer.android.com/reference/android/support/design/widget/NavigationView
+     주의!) Deprecated : 더이상 사용안함
   4. ActionBar에 home 버튼을 추가해서 home 버튼 아이콘 변경 및  onOptionsItemSelected Listener에 NavigationView를 opneDrawer로 열어준다.
   5. NavigationView의 내용은 menu/.xml로 만들어서 menu속성에 연결시켜준다.
   6. 만들어둔 예제 파일
      https://github.com/Happy-Mr-Jason/NavigationDrawerEx
+  
