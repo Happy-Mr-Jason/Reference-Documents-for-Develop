@@ -44,4 +44,7 @@ I think this is a very useful document for beginners. It shows a lot of referenc
 
 ### ◇ 리소스 폴더 관리 요령
   1. https://developer.android.com/studio/write/add-resources.html
-
+  
+### ◇ Navigation Drawer 사용하기
+  1. https://webnautes.tistory.com/1017
+  2. https://developer.android.com/guide/navigation/navigation-ui#add_a_navigation_drawer
