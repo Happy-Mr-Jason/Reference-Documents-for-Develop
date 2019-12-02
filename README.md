@@ -63,7 +63,7 @@ I think this is a very useful document for beginners. It shows a lot of referenc
 ### ◇ Android Socket통신시 문제점 발견 (통신등의 시간이 많이 걸리는 작업을 수행 하는 경우)
   1. 통신 등의 시간이 많이 걸리는작업(수행 중 대기 하는 경우 또는 수행에 오래걸리는 매서드를 실행 할 경우)을 실행 할 경우
      MainThread에서 에러가 발생하거나. 실행이 지연되어 앱의 응답성을 떨어뜨리는 경우가 발생하므로 적절한 조치가 필요하다.
-  2. 따라서 이런 경우 UIThread 보다는 별도의 Background급의 WorkerTrhead를 만들어서 수행해야 응답성을 좋아지게 된다.
+  2. 따라서 이런 경우 UIThread 보다는 별도의 Background급의 WorkerTrhead를 만들어서 수행해야 응답성이 좋아지게 된다.
   1. NetworkOnMainThreadException
      https://developer.android.com/reference/android/os/NetworkOnMainThreadException
   2. NetworkOnMainThreadException 해결 방안
