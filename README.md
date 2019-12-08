@@ -2,6 +2,9 @@
 # ■ Reference-Documents-for-Beginner
 I think this is a very useful document for beginners. It shows a lot of references to the question.
 
+### ◇ Android Studio installation & Config
+   https://developer.android.com/studio/intro
+   
 ### ◇ GitHub Help 
    https://help.github.com/en/github
     
