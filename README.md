@@ -69,3 +69,5 @@ I think this is a very useful document for beginners. It shows a lot of referenc
   2. NetworkOnMainThreadException 해결 방안
      https://developer.android.com/training/articles/perf-anr#java
      
+### ◇ Android Studio 가 백신프로그램의 실시간 검사 사용시 느려지는 현상과 조치 방법
+  1. https://developer.android.com/studio/intro/studio-config#antivirus-impact
