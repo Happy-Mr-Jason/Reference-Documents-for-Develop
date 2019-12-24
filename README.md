@@ -77,3 +77,6 @@ I think this is a very useful document for beginners. It shows a lot of referenc
   
 ### ◇ ViewPager2 API Document offscreenPageLimit
   1. https://developer.android.com/reference/androidx/viewpager2/widget/ViewPager2#setOffscreenPageLimit(int)
+  
+### ◇ Make a Class from Json
+  1. http://www.jsonschema2pojo.org/
